@@ -1,6 +1,6 @@
 # OASIS_INFOBYTE-PROJECT_TASK
 
-AS A DATA SCIENCE INTERN AT OASIS INFOBYTE I HQAVE SUCCESSFULLY COMPLETED 5 PROJECT!
+As a Data Science Intern at Oasis Infobyte I have Successfully completed following Projects
 
 ![Screenshot (156)](https://user-images.githubusercontent.com/97386434/234029624-6153591b-3b81-4e17-8ccc-73c6a0e76961.png)
 ![Screenshot (157)](https://user-images.githubusercontent.com/97386434/234029667-bb4df2c1-428e-4212-965f-7629232af616.png)
